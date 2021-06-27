@@ -1,0 +1,166 @@
+body{
+
+        background-image: url('6k.jpg');
+        background-size: cover;
+    
+    height: 1600px;
+    
+}
+.container{
+    background-image: url(food4.jpg);
+    background-size: cover;
+
+    width: 970px;
+    outline-color: rgb(255, 0, 0);
+    height: 1600px;
+    background-color:white;
+    margin: 0px auto;
+}
+.header h1{
+    font-family: cursive;
+   
+    border-radius: 10px;
+    margin-bottom: auto;
+    margin-top: 30px;
+   
+    height: 70px;
+    width: 500px;
+    margin-left: 30px;
+    
+}
+.center{border-radius: 8px;
+    margin-bottom: 19px;
+    outline: tomato solid 4px;
+    margin-top: 68px;
+    margin-left: 10px;
+
+    width: 460px;
+    margin-bottom: 15px;
+    background-color:#151513;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+.center h1{
+    border-left: 50px solid  rgb(240, 62, 18);
+  
+width: 380px;
+    font-family: 'IBM Plex Serif', serif;
+    margin-bottom: 10px;
+    margin-top: 64px;
+    font-size: 50px;
+    text-align: center;
+  color:white;
+  margin-right: 133px;
+
+padding-left: 0px;
+  
+   
+
+}
+.img{display: inline-block;
+    border-radius: 9px;
+    border: rgb(0, 0, 0) solid;
+
+    margin-left:23px;
+    margin-top: 17px;
+    margin-right: 2px;
+    margin-bottom: 0px;
+}
+.rihgt{
+
+    text-align: center;
+    outline: tomato solid 3px;
+    font-family: 'Cairo', sans-serif;
+    display: inline-block;
+    color: white;
+    font-size: 30px;
+    width: 402px;
+    height: 283px;
+    margin-right:50px ;
+    vertical-align: top;
+    
+    margin-bottom: 10px;
+    margin-top: 82px;
+    margin-left: 44px;
+    margin-right: 10pxs;
+}
+.rihgt li {
+    text-align: start;
+    margin-right: 10px;
+    font-size: 17px;
+    height: 226px;
+    width: 359px;
+}
+.Ingredients{
+    text-align: start;
+    font-size: 38px;
+
+}
+.bootm{font-family: Georgia, 'Times New Roman', Times, serif;
+    display: block;
+   
+    font-size: 40px;
+    margin-right: 10px;
+    margin-left: 20px;
+    color: white;
+    
+    width: 925px;
+}
+.bootm ul li{
+    
+    
+    font-family: fantasy;
+    color: #47ddff;
+    
+    display: inline-block;
+ 
+    font-size:21px;
+    width: 116px;
+    height: 35px;
+}
+.rtext{
+    outline:rgb(167 38 80) solid 8px;
+   
+    display: inline-block;
+    font-size: 40px;
+    font-family: cursive;
+    color: white;
+    margin-left: 20px;
+}
+.rtext div{
+    font-size: 15px;
+    width: 523px;
+    height: 341px;
+    margin-right:10px ;
+}
+.vde{
+    outline: springgreen solid 3px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 61px;
+    margin-right:20px;
+    margin-top: 10px;
+    
+    height: 300px;
+    width: 300px;
+
+}
+
+.footer button{
+    font-family: fantasy;
+    font-size: 20PX;
+    color: rgb(255, 255, 255); 
+    position: relative;
+    top: -57px;
+    bottom: 10px;
+    left: 723px;
+    right: 10px;   
+    width:110px;
+    height: 54px;
+    padding-right: 13px;
+    background-color:rgba(0, 0, 0, 0);
+    border-radius: 2px;
+    outline: rgb(237, 255, 71) solid 1px;
+   
+}
+
